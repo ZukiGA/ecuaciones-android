@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">EcuacionSegundoGrado</string>
+    <string name="ecuSegGra">Ecuaciones de segundo grado</string>
+    <string name="a">a:</string>
+    <string name="ingb">Ingresa b</string>
+    <string name="ingc">Ingresa c</string>
+    <string name="c">c:</string>
+    <string name="add_a">Ingresa a</string>
+    <string name="b">b:</string>
+    <string name="solve">Resolver</string>
+    <string name="root1">Raíz 1:</string>
+    <string name="root2">Raíz 2:</string>
 </resources>
